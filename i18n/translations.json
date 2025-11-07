@@ -1,0 +1,256 @@
+{
+  "uz": {
+    "nav": {
+      "home": "Bosh sahifa",
+      "search": "Qidiruv",
+      "myListings": "Mening e'lonlarim",
+      "favorites": "Saralanganlar",
+      "messages": "Xabarlar",
+      "profile": "Profil",
+      "about": "Biz haqimizda",
+      "contact": "Bog'lanish",
+      "login": "Kirish",
+      "signup": "Ro'yxatdan o'tish",
+      "logout": "Chiqish"
+    },
+    "hero": {
+      "title": "Haqiqiy uylar, haqiqiy egalardan",
+      "subtitle": "Vositachilarning va firibgarlarning orqasida yo'q — faqat bevosita va ishonchli xona izlash",
+      "cta": "Boshlash"
+    },
+    "features": {
+      "verified": {
+        "title": "Tekshirilgan Egalalar",
+        "description": "Faqat haqiqiy egalalar uy joylashtiraydi. Identifikatsiya va video tekshiruvi orqali tekshirilgan."
+      },
+      "safe": {
+        "title": "Xavfsiz Gaplashuv",
+        "description": "In-app chat va artificial intellekt firibgarlik aniqlashi bilan shaxsiy raqamlarni hech qachon bag‘ishlang."
+      },
+      "fair": {
+        "title": "Adolatli Narxlar",
+        "description": "AI-ning narx taklifi siz joyingiz uchun haqiqiy narxni bilib olishga yordam beradi."
+      },
+      "easy": {
+        "title": "Bemalol va Qulay",
+        "description": "Karta orqali qidiruv, saralanganlar va uylarga taqqoslash imkoniyati."
+      }
+    },
+    "stats": {
+      "owners": "Tekshirilgan Egalalar",
+      "properties": "Faol E'lonlar",
+      "chats": "Kunlik Suhbatlar",
+      "savedListings": "Saralanganlar"
+    },
+    "cta": {
+      "owner": "Uy Joylash",
+      "renter": "Uy Qidiruv"
+    },
+    "footer": {
+      "about": "Haqida",
+      "contact": "Aloqa",
+      "privacy": "Maxfiylik siyosati",
+      "terms": "Foydalanish shartlari",
+      "language": "Til"
+    },
+    "listingDetails": {
+      "share": "Ulashish",
+      "save": "Saqlash",
+      "reviews": "Sharhlar",
+      "hostedBy": "Uy egasi",
+      "joined": "Qo‘shilgan",
+      "aboutPlace": "Uy haqida",
+      "whatOffers": "Uy nimani taklif qiladi",
+      "checkIn": "Kirish sanasi",
+      "checkOut": "Chiqish sanasi",
+      "guests": "Mehmonlar",
+      "reserve": "Bron qilish",
+      "noCharge": "Sizdan hozircha to‘lov olinmaydi",
+      "nights": "kechaga",
+      "cleaningFee": "Tozalash xizmati",
+      "serviceFee": "Xizmat haqi",
+      "totalBeforeTaxes": "Soliqlardan oldingi summa",
+      "addDate": "Add date"
+    },
+    "addListing": {
+      "title": "Yangi e'lon qo'shish",
+      "name": "Uy nomi",
+      "location": "Joylashuv",
+      "price": "Narxi (USD)",
+      "description": "Tavsif",
+      "photos": "Rasmlar (ixtiyoriy)",
+      "submit": "E'lonni joylashtirish",
+      "success": "E'lon muvaffaqiyatli qo'shildi!"
+    }
+  },
+
+  "ru": {
+    "nav": {
+      "home": "Главная",
+      "search": "Поиск",
+      "myListings": "Мои объявления",
+      "favorites": "Избранное",
+      "messages": "Сообщения",
+      "profile": "Профиль",
+      "about": "О нас",
+      "contact": "Контакты",
+      "login": "Войти",
+      "signup": "Регистрация",
+      "logout": "Выйти"
+    },
+    "hero": {
+      "title": "Настоящие дома от настоящих хозяев",
+      "subtitle": "Без посредников, без мошенничества — только прямой и надежный поиск жилья",
+      "cta": "Начать"
+    },
+    "features": {
+      "verified": {
+        "title": "Проверенные Хозяева",
+        "description": "Только настоящие хозяева размещают объявления. Проверка через ID и видео-селфи."
+      },
+      "safe": {
+        "title": "Безопасное Общение",
+        "description": "Встроенный чат и ИИ-детектор мошенничества. Никогда не делитесь личными номерами."
+      },
+      "fair": {
+        "title": "Честные Цены",
+        "description": "ИИ-рекомендация справедливой стоимости помогает узнать реальные цены в вашем районе."
+      },
+      "easy": {
+        "title": "Просто и Удобно",
+        "description": "Поиск по карте, добавление в избранное и сравнение до 3 объектов."
+      }
+    },
+    "stats": {
+      "owners": "Проверенные Хозяева",
+      "properties": "Активные Объявления",
+      "chats": "Ежедневные Чаты",
+      "savedListings": "Сохраненные Объекты"
+    },
+    "cta": {
+      "owner": "Разместить Дом",
+      "renter": "Искать Дом"
+    },
+    "footer": {
+      "about": "О Нас",
+      "contact": "Контакт",
+      "privacy": "Политика Конфиденциальности",
+      "terms": "Условия Использования",
+      "language": "Язык"
+    },
+    "listingDetails": {
+      "share": "Поделиться",
+      "save": "Сохранить",
+      "reviews": "отзывов",
+      "hostedBy": "Хозяин",
+      "joined": "Присоединился",
+      "aboutPlace": "О жилье",
+      "whatOffers": "Что предлагает жилье",
+      "checkIn": "Заезд",
+      "checkOut": "Выезд",
+      "guests": "Гости",
+      "reserve": "Забронировать",
+      "noCharge": "С вас пока не взимается плата",
+      "nights": "ночей",
+      "cleaningFee": "Уборка",
+      "serviceFee": "Сервисный сбор",
+      "totalBeforeTaxes": "Итого до налогов",
+      "addDate": "Добавить дату"
+    },
+    "addListing": {
+      "title": "Добавить новое объявление",
+      "name": "Название дома",
+      "location": "Местоположение",
+      "price": "Цена (USD)",
+      "description": "Описание",
+      "photos": "Фото (необязательно)",
+      "submit": "Опубликовать объявление",
+      "success": "Объявление успешно добавлено!"
+    }
+  },
+
+  "en": {
+    "nav": {
+      "home": "Home",
+      "search": "Search",
+      "myListings": "My Listings",
+      "favorites": "Favorites",
+      "messages": "Messages",
+      "profile": "Profile",
+      "about": "About",
+      "contact": "Contact",
+      "login": "Log in",
+      "signup": "Sign up",
+      "logout": "Log out"
+    },
+    "hero": {
+      "title": "Real homes from real owners",
+      "subtitle": "No middlemen, no scams — just direct and trustworthy home searching",
+      "cta": "Get Started"
+    },
+    "features": {
+      "verified": {
+        "title": "Verified Owners",
+        "description": "Only real owners post properties. Verified through ID and video selfie."
+      },
+      "safe": {
+        "title": "Safe Communication",
+        "description": "In-app chat and AI fraud detection. Never share personal numbers."
+      },
+      "fair": {
+        "title": "Fair Pricing",
+        "description": "AI pricing suggestions help you know the real rates in your area."
+      },
+      "easy": {
+        "title": "Simple & Easy",
+        "description": "Map search, save favorites, and compare up to 3 properties."
+      }
+    },
+    "stats": {
+      "owners": "Verified Owners",
+      "properties": "Active Listings",
+      "chats": "Daily Chats",
+      "savedListings": "Saved Listings"
+    },
+    "cta": {
+      "owner": "Post a Home",
+      "renter": "Find a Home"
+    },
+    "footer": {
+      "about": "About",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "language": "Language"
+    },
+    "listingDetails": {
+      "share": "Share",
+      "save": "Save",
+      "reviews": "reviews",
+      "hostedBy": "Hosted by",
+      "joined": "Joined in",
+      "aboutPlace": "About this place",
+      "whatOffers": "What this place offers",
+      "checkIn": "Check-in",
+      "checkOut": "Checkout",
+      "guests": "Guests",
+      "reserve": "Reserve",
+      "noCharge": "You won’t be charged yet",
+      "nights": "nights",
+      "cleaningFee": "Cleaning fee",
+      "serviceFee": "Service fee",
+      "totalBeforeTaxes": "Total before taxes",
+      "addDate": "Sana belgilash"
+    },
+    "addListing": {
+      "title": "Add New Listing",
+      "name": "Home Name",
+      "location": "Location",
+      "price": "Price (USD)",
+      "description": "Description",
+      "photos": "Photos (optional)",
+      "submit": "Post Listing",
+      "success": "Listing added successfully!"
+    }
+  }
+}
